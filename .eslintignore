@@ -1,0 +1,5 @@
+node_modules/
+.next/
+public/
+**/resume-pdf-document.tsx
+**/memoized-markdown.tsx 
