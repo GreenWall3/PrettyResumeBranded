@@ -1222,7 +1222,7 @@ export default function Home() {
           </div>
           
           <div className="flex items-baseline mb-8">
-            <span className="text-4xl font-bold text-purple-600">$20</span>
+            <span className="text-4xl font-bold text-purple-600">$9</span>
             <span className="text-gray-500 ml-2">/month</span>
           </div>
           
@@ -1364,7 +1364,7 @@ export default function Home() {
         </summary>
         <div className="p-4 border-t border-gray-100 bg-white/50 text-sm text-gray-600">
           <p>
-            The Pro plan ($20/month) includes unlimited resumes, advanced AI assistance for better content optimization, the ability to import from existing resumes, our resume score tool to evaluate your resume's effectiveness, multiple adjustable layouts, and priority support for any questions or issues.
+            The Pro plan ($9/month) includes unlimited resumes, advanced AI assistance for better content optimization, the ability to import from existing resumes, our resume score tool to evaluate your resume's effectiveness, multiple adjustable layouts, and priority support for any questions or issues.
           </p>
         </div>
       </details>
