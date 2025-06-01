@@ -210,6 +210,12 @@ export default function ContactPage() {
                       <a href="mailto:support@pretty-resume.com">support@prettyresume.com</a>
                     </p>
                   </div>
+                  <div>
+                    <h3 className="font-medium text-gray-800">Email</h3>
+                    <p className="text-purple-600 hover:text-purple-700">
+                      <a href="mailto:pete@prettyresume.com">pete@prettyresume.com</a>
+                    </p>
+                  </div>
                 </div>
                 
                 <div className="flex items-start">
