@@ -445,7 +445,6 @@ export default function Home() {
                       <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" className="text-purple-500">
                         <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
                       </svg>
-                      <span className="text-xs font-medium ml-1 mr-2 text-purple-700">Trustpilot</span>
                     </div>
                     
                     <div className="flex items-center group">
