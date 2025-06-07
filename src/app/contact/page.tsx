@@ -204,6 +204,7 @@ export default function ContactPage() {
                   <div className="mt-1 bg-purple-100 p-2 rounded-full mr-4">
                     <MailIcon className="h-5 w-5 text-purple-600" />
                   </div>
+                <div className="flex flex-col space-y-2">
                   <div>
                     <h3 className="font-medium text-gray-800">Email</h3>
                     <p className="text-purple-600 hover:text-purple-700">
@@ -217,6 +218,7 @@ export default function ContactPage() {
                     </p>
                   </div>
                 </div>
+                </div>
                 
                 <div className="flex items-start">
                   <div className="mt-1 bg-purple-100 p-2 rounded-full mr-4">
@@ -224,7 +226,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-medium text-gray-800">Location</h3>
-                    <p className="text-gray-600">San Francisco, CA</p>
+                    <p className="text-gray-600">Baltimore, MD, USA</p>
                   </div>
                 </div>
                 
