@@ -532,7 +532,7 @@ export default function Home() {
               className="flex flex-col md:flex-row md:items-center justify-between gap-4"
             >
               <h2 className="text-2xl font-bold text-gray-900">
-                <span className="border-b-2 border-purple-500 pb-1">Trusted</span> Partners
+                Trusted By Job-Seekers, Hired By Top Employers
               </h2>
               <p className="text-sm text-gray-500 max-w-md">
                 Leading companies trust our Ai Resume Builder
