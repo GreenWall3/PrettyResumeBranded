@@ -387,11 +387,21 @@ export default function Home() {
             {/* Animated gradient heading */}
             <div className="space-y-2">
               <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold tracking-tight leading-tight">
-                Make your <span className="relative">
-                  <span className="relative z-10 text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-indigo-600 to-purple-600 animate-gradient-x">professional<br />resume</span>
-                  <span className="absolute -bottom-1 left-0 right-0 h-3 bg-gradient-to-r from-purple-300/20 via-indigo-300/20 to-purple-300/20 blur-md"></span>
-                </span> in minutes
-              </h1>
+                <span className="relative">
+                  <span className="relative z-10 text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-indigo-600 to-purple-600 animate-gradient-x">
+                    AI-Powered Resumes
+                    </span>
+                  </span>
+                  <span className="text-black"> That Get You </span>
+                  <span className="relative">
+                    <span className="relative z-10 text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-indigo-600 to-purple-600 animate-gradient-x">
+                      Hired Faster
+                    </span>
+                    <span className="absolute -bottom-1 left-0 right-0 h-3 bg-gradient-to-r from-purple-300/20 via-indigo-300/20 to-purple-300/20 blur-md"></span>
+                  </span>
+                </h1>
+              </div>
+    
               
               <p className="text-sm md:text-base text-gray-600 max-w-lg mx-auto sm:mx-0">
                 From generating bullet points to automatic formatting, our AI resume builder delivers professional results quickly.
