@@ -268,7 +268,7 @@ export default function TermsPage() {
                 <a href="mailto:support@prettyresume.com" className="hover:text-purple-600 transition-colors duration-200 text-black">support@prettyresume.com</a>
               </div>
               <div className="text-sm text-gray-500 text-center md:text-right">
-                <div>Monday-Friday: 9am - 5pm</div>
+                <div>Mon-Sun 8 AM - 5PM EST</div>
               </div>
             </div>
           </div>
