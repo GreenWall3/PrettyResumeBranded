@@ -247,7 +247,7 @@ export default function TermsPage() {
               </div>
               <div className="text-center mt-2">
                 <div className="font-semibold text-black">One Of the Best Resume Builder</div>
-                <div className="text-sm text-gray-500">we Started in 2022 • 2025</div>
+                <div className="text-sm text-gray-500">we Started in 2022</div>
               </div>
             </div>
             
