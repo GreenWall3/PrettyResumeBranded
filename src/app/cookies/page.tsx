@@ -235,7 +235,7 @@ export default function CookiesPage() {
             <div className="flex flex-col items-center md:items-start text-center md:text-left">
               <div className="text-2xl font-bold text-black mb-4">Pretty Resume™</div>
               <p className="text-gray-600 max-w-md">
-                Since 2022, PrettyResume has helped 5 million job seekers. Our tools and Certified Professional Resume Writers guide you through the entire job search process.
+                Since 2022, PrettyResume has helped 5 million job seekers. Our tools guide you through the entire job search process.
               </p>
             </div>
             
