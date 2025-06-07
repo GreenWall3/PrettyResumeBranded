@@ -252,7 +252,7 @@ export default function CookiesPage() {
                 </div>
               </div>
               <div className="flex items-center mb-4">
-                <span className="text-sm text-black">8,250 reviews on</span>
+                <span className="text-sm text-black">8,250 reviews</span>
                 <img src="/trustpilot-logo.svg" alt="Trustpilot" className="h-5 ml-2" />
               </div>
               
